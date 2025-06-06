@@ -1,5 +1,5 @@
 {
-  "name": "2",
+  "name": "DssTours",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "prompt-sync": "^4.2.0"
+    "express": "^4.17.1"
   },
   "description": ""
 }
